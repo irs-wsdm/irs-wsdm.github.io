@@ -1,0 +1,14 @@
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: false
+theme: jekyll-theme-cayman
+
+conference_name: WSDM 2023 Workshop on Interactive Recommender Systems
+conference_intro: "Will be held in 2023"
+
+github:
+  zip_url: http://www.google.com
+
+collections:
+  organizers:
+    output: true
