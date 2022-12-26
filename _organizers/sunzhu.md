@@ -1,5 +1,5 @@
 ---
-name: Dr. Sun Zhu
+name: Dr. Zhu Sun
 position: Research Scientist
 organization: Institute of High Performance Computing, A*STAR, Singapore
 img: assets/img/sunzhu.jpg

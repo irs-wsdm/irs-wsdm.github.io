@@ -1,5 +1,5 @@
 ---
-name: Dr. Zhang Hao
+name: Dr. Hao Zhang
 position: Principal Engineer
 organization: Huawei Noah’s Ark Lab, Singapore
 img: assets/img/zhanghao.jpg
