@@ -1,8 +1,8 @@
 ---
-name: Prof. Shoujin Wang
+name: Dr. Shoujin Wang
 position: Lecturer
 organization: University of Technology Sydney, Australia
-img: assets/img/wangshuojin.jpg
+img: assets/img/wangshoujin.jpg
 personal-page: https://shoujinwang1.github.io
 order: 4
 row: 2
